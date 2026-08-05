@@ -16,7 +16,7 @@ that shape how care is designed and delivered.
 peer-reviewed clinical effect sizes (Reider et al., Sherrington et al.) — sensitivity
 analysis across 3 scenarios. Excel + Tableau.
 
-**[Inpatient-to-Outpatient Site-of-Care Shift Analysis](link-to-repo)**
+**[Inpatient-to-Outpatient Site-of-Care Shift Analysis](https://github.com/Mithi-jain/site-of-care-shift-analysis)**
 SQL/BigQuery analysis of procedure migration trends using CMS/HCUP hospital utilization
 data, visualized in Tableau.
 
