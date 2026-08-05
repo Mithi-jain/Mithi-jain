@@ -11,7 +11,7 @@ that shape how care is designed and delivered.
 
 **🔎 Featured Projects**
 
-**[Falls Prevention Cost-Avoidance Model](Mithi-jain/falls-prevention-cost-avoidance-model)**
+**[Falls Prevention Cost-Avoidance Model](https://github.com/Mithi-jain/falls-prevention-cost-avoidance-model)**
 50-state cost-avoidance model for falls prevention, built on CDC/BRFSS data and
 peer-reviewed clinical effect sizes (Reider et al., Sherrington et al.) — sensitivity
 analysis across 3 scenarios. Excel + Tableau.
