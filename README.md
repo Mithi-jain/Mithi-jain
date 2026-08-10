@@ -23,8 +23,7 @@ data, visualized in Tableau.
 
 ---
 
-📊 Tools: SQL, Tableau, Excel | 🩺 Domain: MSK, neuro, cardiorespiratory, pediatric care
-📍 Based in Mumbai
+📊 Tools: SQL, Tableau, Excel | 📍 Based in Mumbai
 Always learning. Open to conversations.
 
 <!--
