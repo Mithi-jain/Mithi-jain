@@ -3,8 +3,7 @@
 Physical Therapist with a growing curiosity that goes beyond the clinic.
 
 My work in physiotherapy taught me to think in outcomes — what's working, what's not, and
-why. That same thinking is now pulling me toward **Health Economics & Outcomes Research
-(HEOR), Real-World Evidence (RWE), and Healthcare analytics
+why. That same thinking is now pulling me toward **Health Analytics & Insights ,Real-World Evidence (RWE), and Market access 
 ** — the evidence and decisions
 that shape how care is designed and delivered.
 
